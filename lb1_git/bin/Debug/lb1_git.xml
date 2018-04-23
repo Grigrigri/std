@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>lb1_git</name>
+    </assembly>
+    <members>
+        <member name="F:lb1_git.Address.city">
+            <summary>
+            Атрибуты класса.
+            </summary>
+        </member>
+        <member name="P:lb1_git.Address.City">
+            <summary>
+            Блоки get, где мы возвращаем значение, и set, где мы устанавливаем значение, с использование модификаторов доступа.
+            </summary>
+        </member>
+        <member name="M:lb1_git.Address.input">
+            <summary>
+            Метод для ввода с клавиатуры.
+            </summary>
+        </member>
+        <member name="M:lb1_git.Address.print">
+            <summary>
+            Метод для вывода на экран.
+            </summary>
+        </member>
+    </members>
+</doc>

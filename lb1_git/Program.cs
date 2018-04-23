@@ -10,6 +10,10 @@ namespace lb1_git
     {
         static void Main(string[] args)
         {
+            Address address = new Address("","",0);
+            address.input();
+            address.print();
+            Console.ReadKey();
         }
     }
 }

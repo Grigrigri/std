@@ -1,0 +1,8 @@
+C:\Users\sga_m\Desktop\lb1_git\lb1_git\lb1_git\bin\Debug\lb1_git.exe.config
+C:\Users\sga_m\Desktop\lb1_git\lb1_git\lb1_git\bin\Debug\lb1_git.xml
+C:\Users\sga_m\Desktop\lb1_git\lb1_git\lb1_git\bin\Debug\lb1_git.exe
+C:\Users\sga_m\Desktop\lb1_git\lb1_git\lb1_git\bin\Debug\lb1_git.pdb
+C:\Users\sga_m\Desktop\lb1_git\lb1_git\lb1_git\obj\Debug\lb1_git.csprojResolveAssemblyReference.cache
+C:\Users\sga_m\Desktop\lb1_git\lb1_git\lb1_git\obj\Debug\lb1_git.csproj.CoreCompileInputs.cache
+C:\Users\sga_m\Desktop\lb1_git\lb1_git\lb1_git\obj\Debug\lb1_git.exe
+C:\Users\sga_m\Desktop\lb1_git\lb1_git\lb1_git\obj\Debug\lb1_git.pdb
